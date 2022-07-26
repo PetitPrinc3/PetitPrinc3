@@ -10,6 +10,8 @@
 
 Hey ! welcome on my Github :blush:
 
+---
+
 ## Whoami ?
 
 - <img src="https://user-images.githubusercontent.com/64252014/180590776-89130674-440b-4ce2-b6c1-17a7504eb43a.png" height="20"> I'm french !
@@ -20,8 +22,11 @@ Hey ! welcome on my Github :blush:
 - :mortar_board: I'm an engineer !
 
 <div align="center">
-  <script src="https://tryhackme.com/badge/426930">
-  </script>
+
+<a href="https://tryhackme.com/p/G4vr0ch3">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/G4vr0ch3.png" alt="TryHackMe">
+</a><br>
+
 </div>
 
 ## What's on my Github ?
@@ -52,4 +57,14 @@ Hey ! welcome on my Github :blush:
 | :-: | :-: |
 | Arduino | Raspberry Pi |
 
+---
+
 ## Contact details :
+
+<code>
+    <a href="mailto:gavrochebackups@gmail.com" title=""><img height="22" width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">Mail</a>
+</code>  
+<code>
+  <a href="https://discordapp.com/users/Gavroche#2871" title=""><img height="22" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="12">Discord
+  </a>
+</code>
