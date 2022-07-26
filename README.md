@@ -37,19 +37,19 @@ Hey ! welcome on my Github :blush:
 ###### Programming :
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
-| :------------------------------------------: | :--------------------------------------------------------| :---------------------------------------------------------------:| :---------------------------------------------------------------:| :---------------------------------------------------------------:| :---------------------------------------------------------------:| :---------------------------------------------------------------:| :---------------------------------------------------------------:|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Bash | Python | C++ | HTML | PHP | SQL | WOL | RDF |
 
 ###### Operating systems :
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"> | <img src="https://www.kali.org/images/kali-logo.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ubuntu-Logo_ohne_Schriftzug.svg/2048px-Ubuntu-Logo_ohne_Schriftzug.svg.png" height="40"> | <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
-| : -----------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
+| :-: | :-: | :-: | :-: | :-: |
 | Windows | Linux | Kali | Ubuntu | Raspberry Pi OS |
 
 ###### Hardware :
 
 | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" height="40"> | <img align="center" src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
-| :---: | :---: |
+| :-: | :-: |
 | Arduino | Raspberry Pi |
 
 ## Contact details :
