@@ -37,9 +37,9 @@ Hey ! welcome on my Github :blush:
 
 ###### Programming :
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Bash | Python | C++ | HTML | PHP | SQL | WOL | RDF |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Bash | Python | C++ | JAVA | HTML | PHP | SQL | WOL | RDF |
 
 ###### Operating systems :
 
