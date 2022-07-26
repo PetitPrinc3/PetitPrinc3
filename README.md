@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-##
-
 Hey ! welcome on my Github :blush:
 
 ## Whoami ?
