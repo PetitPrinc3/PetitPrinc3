@@ -42,7 +42,7 @@ Hey ! welcome on my Github :blush:
 
 ###### Operating systems :
 
-| <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40"> | <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"> | <img align="center" src="https://www.kali.org/images/kali-logo.svg" height="40"> | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ubuntu-Logo_ohne_Schriftzug.svg/2048px-Ubuntu-Logo_ohne_Schriftzug.svg.png" height="40"> | <img align="center" src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"> | <img src="https://www.kali.org/images/kali-logo.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ubuntu-Logo_ohne_Schriftzug.svg/2048px-Ubuntu-Logo_ohne_Schriftzug.svg.png" height="40"> | <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
 | : -----------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 | Windows | Linux | Kali | Ubuntu | Raspberry Pi OS |
 
@@ -51,3 +51,5 @@ Hey ! welcome on my Github :blush:
 | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" height="40"> | <img align="center" src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
 | :---: | :---: |
 | Arduino | Raspberry Pi |
+
+## Contact details :
