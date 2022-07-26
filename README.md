@@ -62,7 +62,7 @@ Hey ! welcome on my Github :blush:
 
 ## Support
 
-> 👋🏼 Hey everyone ! I provide free software, feel free to use them and edit them as you wish. I will also provide a bit of support should you need it when contacted through the contact channels specified below. Feel free to help me out as you can !
+> 👋🏼 Hey everyone ! I provide free software, feel free to use it and edit it as you wish. I will also provide a bit of support should you need it when contacted through the contact channels specified below. Feel free to help me out as you can !
 
 - ⭐️ You can help by hitting Star on the repositories you like !
 - ☕️ You can buy me a [coffee](https://www.paypal.com/paypalme/AReppelin)
