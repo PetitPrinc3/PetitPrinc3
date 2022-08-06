@@ -55,7 +55,7 @@ Hey ! welcome on my Github :blush:
 
 ## What am I working on ?
 
-[Graduation project]: https://contrib.rocks/image?repo=G4vr0ch3/USB-Safe-Station
+[Safe-Station]: https://contrib.rocks/image?repo=G4vr0ch3/USB-Safe-Station
 [SNCF-Sucks]: https://contrib.rocks/image?repo=G4vr0ch3/SNCF-Sucks
 
 
