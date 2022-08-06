@@ -55,6 +55,10 @@ Hey ! welcome on my Github :blush:
 
 ## What am I working on ?
 
+[Graduation project]: https://contrib.rocks/image?repo=G4vr0ch3/USB-Safe-Station
+[SNCF-Sucks]: https://contrib.rocks/image?repo=G4vr0ch3/SNCF-Sucks
+
+
 | Project : | Starting date : | Status : | Involvements : | Contributors : |
 | :-: | :-: | :-: | :-: | :-: |
 | [Graduation project](https://github.com/G4vr0ch3/USB-Safe-Station) : Developing a micro USB safe-station | 22/08/2022 | :hourglass_flowing_sand: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="20"> | [![Safe-Station]](https://github.com/G4vr0ch3/USB-Safe-Station/graphs/contributors) |
