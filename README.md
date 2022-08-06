@@ -58,6 +58,7 @@ Hey ! welcome on my Github :blush:
 | Project : | Starting date : | Status : | Involvements : |
 | :-: | :-: | :-: | :-: |
 | Graduation project : Developing a micro USB safe-station | 22/08/2022 | :hourglass_flowing_sand: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="20"> |
+| [SNCF Sucks](https://github.com/G4vr0ch3/SNCF-Sucks) : Demonstrating how terrible the french railway system is | 04/08/2022 | :yellow_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"> |
 
 
 ## Support
