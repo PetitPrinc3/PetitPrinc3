@@ -43,7 +43,7 @@ Hey ! welcome on my Github :blush:
 
 ###### Operating systems :
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40"> | <img SRC="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" > | <img src="https://www.kali.org/images/kali-logo.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ubuntu-Logo_ohne_Schriftzug.svg/2048px-Ubuntu-Logo_ohne_Schriftzug.svg.png" height="40"> | <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" > | <img src="https://www.kali.org/images/kali-logo.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ubuntu-Logo_ohne_Schriftzug.svg/2048px-Ubuntu-Logo_ohne_Schriftzug.svg.png" height="40"> | <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Windows | Android | Linux | Debian | Kali | Ubuntu | Raspberry Pi OS |
 
@@ -58,8 +58,7 @@ Hey ! welcome on my Github :blush:
 | Project : | Starting date : | Status : | Involvements : |
 | :-: | :-: | :-: | :-: |
 | [Graduation project](https://github.com/G4vr0ch3/USB-Safe-Station) : Developing a micro USB safe-station | 22/08/2022 | :hourglass_flowing_sand: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="20"> |
-| [SNCF Sucks](https://github.com/G4vr0ch3/SNCF-Sucks) : Demonstrating how terrible the french railway system is | 04/08/2022 | :yellow_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"> |
-
+| [SNCF Sucks](https://github.com/G4vr0ch3/SNCF-Sucks) : Demonstrating how terrible the french railway system is | 04/08/2022 | :yellow_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
 
 ## Support
 
