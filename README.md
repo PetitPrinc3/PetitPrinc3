@@ -8,6 +8,8 @@
 
 Hey ! welcome on my Github :blush:
 
+Checkout my [website](https://g4vr0ch3.github.io) !
+
 ## Whoami ?
 
 - <img src="https://user-images.githubusercontent.com/64252014/180590776-89130674-440b-4ce2-b6c1-17a7504eb43a.png" height="20"> I'm french !
@@ -37,29 +39,32 @@ Hey ! welcome on my Github :blush:
 
 ###### Programming :
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Bash | Python | C++ | JAVA | HTML | PHP | SQL | WOL | RDF |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :star::star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star: | :star::star: | :star: | :star: |
+| Python | Bash | C++ | JAVA | HTML | PHP | CSS | SQL | WOL | RDF |
 
 ###### Operating systems :
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" > | <img src="https://www.kali.org/images/kali-logo.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ubuntu-Logo_ohne_Schriftzug.svg/2048px-Ubuntu-Logo_ohne_Schriftzug.svg.png" height="40"> | <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :star: | :star::star: | :star::star::star: | :star::star::star: | :star::star::star: | :star::star::star: | :star::star::star: |
 | Windows | Android | Linux | Debian | Kali | Ubuntu | Raspberry Pi OS |
 
 ###### Hardware :
 
 | <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" height="40"> | <img align="center" src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
 | :-: | :-: |
+| :star: | :star::star::star: |
 | Arduino | Raspberry Pi |
 
 ## What am I working on ?
 
 | Project : | Starting date : | Status : | Involvements : |
 | :-: | :-: | :-: | :-: |
-| [Graduation project](https://github.com/G4vr0ch3/USB-Malware-Cleaner-Kiosk) : Developing a micro USB safe-station | 22/08/2022 | :yellow_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="20"> |
+| [Graduation project](https://github.com/G4vr0ch3/USB-Malware-Cleaner-Kiosk) : Developing a micro USB safe-station | 22/08/2022 | :yellow_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="20"> |
 | [SNCF Sucks](https://github.com/G4vr0ch3/SNCF-Sucks) : Demonstrating how terrible the french railway system is | 04/08/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
-| [Learning CSS](https://g4vr0ch3.github.io) : Learning CSS to build nice and custom websites for my projects | 21/08/2022 | :yellow_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
+
 
 ## Support
 
