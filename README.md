@@ -58,7 +58,7 @@ Checkout my [website](https://g4vr0ch3.github.io) !
 | :star: | :star::star::star: |
 | Arduino | Raspberry Pi |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4vr0ch3&layout=compact&langs_count=7&theme=radical"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4vr0ch3&layout=compact&langs_count=7&theme=radical"/>
 
 ## What am I working on ?
 
