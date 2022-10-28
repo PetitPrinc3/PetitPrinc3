@@ -63,7 +63,7 @@ Checkout my [website](https://g4vr0ch3.github.io) !
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4vr0ch3&layout=demo&langs_count=7&theme=gradient"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4vr0ch3&layout=demo&langs_count=7&theme=gradient"/>
 </div>
 
 # 
