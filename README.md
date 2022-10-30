@@ -31,7 +31,7 @@ Checkout my [website](https://g4vr0ch3.github.io) !
 
 - A few of my projects :
   - [Asterix](https://github.com/G4vr0ch3/Asterix)
-  - [PrepQ](https://github.com/G4vr0ch3/PrepQ)
+  - [PipodNano](https://github.com/G4vr0ch3/PIpod-Nano)
 - [A few writeups for some CTFs](https://github.com/G4vr0ch3/CTFSolvesCollection)
 - [A repository for the rooms I developed for TryHackMe !](https://github.com/G4vr0ch3/TryHackMe-rooms)
 
@@ -63,7 +63,7 @@ Checkout my [website](https://g4vr0ch3.github.io) !
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4vr0ch3&layout=demo&langs_count=7&theme=gradient"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4vr0ch3&layout=demo&langs_count=7&bg_color=9aa1dd,c26bd9,3be6d5&title_color=000000&text_color=363636"/>
 </div>
 
 # 
@@ -72,7 +72,7 @@ Checkout my [website](https://g4vr0ch3.github.io) !
 
 | Project : | Starting date : | Status : | Involvements : |
 | :-: | :-: | :-: | :-: |
-| [OWL](https://github.com/G4vr0ch3/OWL): Android Remote Access Tool (RAT) (Temporary name) | - | :hourglass: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="20"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20"> |
+| [OWL](https://github.com/G4vr0ch3/OWL): Android Remote Access Tool (RAT) (Temporary name) | 30/10/2022 | :orange_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="20"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20"> |
 | [Asterix](https://github.com/G4vr0ch3/Asterix) : Developing a micro USB malware cleaner kiosk (Sandboxed) | 22/08/2022 | :green_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="20"> |
 | [SNCF Sucks](https://github.com/G4vr0ch3/SNCF-Sucks) : Demonstrating how terrible the french railway system is | 04/08/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
 
