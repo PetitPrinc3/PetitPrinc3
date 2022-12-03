@@ -16,7 +16,6 @@ Checkout my [website](https://petitprinc3.github.io) !
 - :boy: I'm 22 !
 - :seedling: I study cybersecurity among other things !
 - :triangular_flag_on_post: I do CTFs as a hoby !
-- :anchor: I'm studying at the French Naval Academy !
 - :mortar_board: I'm an engineer !
 
 <div align="center">
