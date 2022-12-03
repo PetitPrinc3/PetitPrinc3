@@ -18,7 +18,13 @@ Checkout my [website](https://petitprinc3.github.io) !
 - :triangular_flag_on_post: I do CTFs as a hoby !
 - :mortar_board: I'm an engineer !
 
+<div align="center">
 
+  <a href="https://tryhackme.com/p/G4vr0ch3">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/G4vr0ch3.png" alt="TryHackMe">
+  </a><br>
+
+</div>
 
 ## What's on my Github ?
 
