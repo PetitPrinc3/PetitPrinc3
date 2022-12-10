@@ -21,7 +21,7 @@ Checkout my [website](https://petitprinc3.github.io) !
 <div align="center">
 
   <a href="https://tryhackme.com/p/G4vr0ch3">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/G4vr0ch3.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/PetitPrinc3.png" alt="TryHackMe">
   </a><br>
 
 </div>
