@@ -11,31 +11,59 @@
 ################################################################################
 
 
+from datetime import datetime
+
 # Print green
-def success(text):
-    print('[+] \033[92m',text, '\033[0m')
+def success(text, style = "classic", time = False):  
+    
+    if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
+    else: time = ''
+    if style == 'classic': text = '[+]' + time + ' \033[92m' + str(text) + '\033[0m'
+    if style == 'discreet': text = '[\033[92m\033[1m+\033[0m]' + time + ' ' + str(text)
+    
+    print(text)
 
 # Print blue
-def info(text):
-    print('[*] \033[96m',text, '\033[0m')
+def info(text, style = "classic", time = False):  
+    if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
+    else: time = ''
+    if style == 'classic': text = '[*]' + time + ' \033[96m' + str(text) + '\033[0m'
+    if style == 'discreet': text = '[\033[96m\033[1m*\033[0m]' + time + ' ' + str(text)
+    
+    print(text)
 
 # Print blue updating current row
-def infor(text):
-    print('[*] \033[96m',text, '\033[0m', end = '\r')
+def infor(text, style = "classic", time = False):  
+    if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
+    else: time = ''
+    if style == 'classic': text = '[*]' + time + ' \033[96m' + str(text) + '\033[0m'
+    if style == 'discreet': text = '[\033[96m\033[1m*\033[0m]' + time + ' ' + str(text)
+    
+    print(text)
 
 # Print orange
-def warning(text):
-    print('[!] \033[93m',text, '\033[0m')
+def warning(text, style = "classic", time = False):  
+    if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
+    else: time = ''
+    if style == 'classic': text = '[!]' + time + ' \033[93m' + str(text) + '\033[0m'
+    elif style == 'discreet': text = '[\033[93m\033[1m!\033[0m]' + time + ' ' + str(text)
+
+    print(text)
 
 # Print red
-def fail(text):
-    print('[-] \033[91m',text, '\033[0m')
+def fail(text, style = "classic", time = False):  
+    if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
+    else: time = ''
+    if style == 'classic': text = '[-]' + time + ' \033[91m' + text + '\033[0m'
+    elif style == 'discreet': text = '[\033[91m\033[1m-\033[0m]' + time + ' ' + str(text)
+
+    print(text)
 
 
 ################################################################################
 
 
 if __name__ == "__main__":
-    print('Please run main.py or read software documentation')
+    fail('Please run main.py or read software documentation')
     exit()
 
