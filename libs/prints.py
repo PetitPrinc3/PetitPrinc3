@@ -39,7 +39,7 @@ def infor(text, style = "classic", time = False):
     if style == 'classic': text = '[*]' + time + ' \033[96m' + str(text) + '\033[0m'
     if style == 'discreet': text = '[\033[96m\033[1m*\033[0m]' + time + ' ' + str(text)
     
-    print(text)
+    print(text, end = '\r')
 
 # Print orange
 def warning(text, style = "classic", time = False):  
