@@ -57,16 +57,6 @@ Checkout my [website](https://petitprinc3.github.io) !
 | :star: | :star::star::star: |
 | Arduino | Raspberry Pi |
 
-# 
-  
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetitPrinc3&layout=demo&langs_count=7&bg_color=9aa1dd,c26bd9,3be6d5&title_color=000000&text_color=363636"/>
-</div>
-
-# 
-
 ## What am I working on ?
 
 | Project : | Starting date : | Status : | Involvements : |
