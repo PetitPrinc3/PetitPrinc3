@@ -58,22 +58,12 @@ Checkout my [website](https://petitprinc3.github.io) !
 | :star: | :star::star::star: |
 | Arduino | Raspberry Pi |
 
-# 
-  
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetitPrinc3&layout=demo&langs_count=7&bg_color=9aa1dd,c26bd9,3be6d5&title_color=000000&text_color=363636"/>
-</div>
-
-# 
-
 ## What am I working on ?
 
 | Project : | Starting date : | Status : | Involvements : |
 | :-: | :-: | :-: | :-: |
-| [PetitPrinc3.github.io V2](https://petitprinc3.github.io/v2): New personal website. Learning Javascript. |  03/12/2022 | :yellow_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
-| [OWL](https://github.com/PetitPrinc3/OWL): Android Remote Access Tool (RAT) (Temporary name) | 30/10/2022 | :orange_circle: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="20"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20"> |
+| [PetitPrinc3.github.io V2](https://petitprinc3.github.io/v2): New personal website. Learning Javascript. |  03/12/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
+| [OWL](https://github.com/PetitPrinc3/OWL): Android Remote Access Tool (RAT) (Temporary name) | 30/10/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="20"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20"> |
 | [SNCF Sucks](https://github.com/PetitPrinc3/SNCF-Sucks) : Demonstrating how terrible the french railway system is | 04/08/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
 
 
