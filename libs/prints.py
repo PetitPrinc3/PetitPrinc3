@@ -27,8 +27,8 @@ def success(text, style = "classic", time = False):
 def info(text, style = "classic", time = False):  
     if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
     else: time = ''
-    if style == 'classic': text = '[*]' + time + ' \033[96m' + str(text) + '\033[0m'
-    if style == 'discreet': text = '[\033[96m\033[1m*\033[0m]' + time + ' ' + str(text)
+    if style == 'classic': text = '[*]' + time + ' \033[94m' + str(text) + '\033[0m'
+    if style == 'discreet': text = '[\033[94m\033[1m*\033[0m]' + time + ' ' + str(text)
     
     print(text)
 
@@ -36,8 +36,8 @@ def info(text, style = "classic", time = False):
 def infor(text, style = "classic", time = False):  
     if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
     else: time = ''
-    if style == 'classic': text = '[*]' + time + ' \033[96m' + str(text) + '\033[0m'
-    if style == 'discreet': text = '[\033[96m\033[1m*\033[0m]' + time + ' ' + str(text)
+    if style == 'classic': text = '[*]' + time + ' \033[94m' + str(text) + '\033[0m'
+    if style == 'discreet': text = '[\033[94m\033[1m*\033[0m]' + time + ' ' + str(text)
     
     print(text, end = '\r')
 
@@ -64,6 +64,18 @@ def fail(text, style = "classic", time = False):
 
 
 if __name__ == "__main__":
-    fail('Please run main.py or read software documentation')
+    success('Success !')
+    success('Success, but discreet !', 'discreet')
+    success('Success, but discreet, with time !', 'discreet', True)
+    info('Info !')
+    info('Info, but discreet !', 'discreet')
+    info('Info, but discreet, with time !', 'discreet', True)
+    warning('Warning !')
+    warning('Warning, but discreet !', 'discreet')
+    warning('Warning, but discreet, with time !', 'discreet', True)
+    fail('Fail !')
+    fail('Fail, but discreet !', 'discreet')
+    fail('Fail, but discreet, with time !', 'discreet', True)
+
     exit()
 

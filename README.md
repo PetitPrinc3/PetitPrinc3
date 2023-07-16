@@ -31,6 +31,7 @@ Checkout my [website](https://petitprinc3.github.io) !
 - A few of my projects :
   - [Asterix](https://github.com/PetitPrinc3/Asterix)
   - [PipodNano](https://github.com/PetitPrinc3/PIpod-Nano)
+  - [PetitPrinc3.libs - Homemade Python libraries used in most of my projects !](https://github.com/PetitPrinc3/PetitPrinc3.github.io/libs)
 - [A few writeups for some CTFs](https://github.com/G4vr0ch3/CTFSolvesCollection)
 - [A repository for the rooms I developed for TryHackMe !](https://github.com/PetitPrinc3/TryHackMe-rooms)
 
