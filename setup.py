@@ -8,12 +8,9 @@ setup(
   author = 'PetitPrinc3',
   author_email = '', 
   url = 'https://github.com/PetitPrinc3', 
-  download_url = 'https://github.com/PetitPrinc3/PetitPrinc3/archive/release_1.tar.gz',
+  download_url = 'https://github.com/PetitPrinc3/PetitPrinc3/archive/refs/tags/v_0.1.tar.gz',
   keywords = ['PetitPrinc3'], 
-  install_requires=[
-          'validators',
-          'beautifulsoup4',
-      ],
+  install_requires=[],
   classifiers=[
     'Development Status :: 3 - Alpha', 
     'Intended Audience :: Developers', 
