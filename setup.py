@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
   name = 'PetitPrinc3',         
-  packages = ['PetitPrinc3'],
+  packages = ['.libs.copy'],
   version = '0.1',      
   license='GNU',     
   description = "PetitPrinc3's libraries",  

@@ -59,6 +59,15 @@ def fail(text, style = "classic", time = False):
 
     print(text)
 
+# Print ?
+def question(text, style = "classic", time = False)
+    if time: time = "[" + str(datetime.now().strftime("%H:%M:%S")) + "]"
+    else: time = ''
+    if style == 'classic': text = '[?]' + time + ' \033[94m' + str(text) + '\033[0m'
+    if style == 'discreet': text = '[\033[94m\033[1m?\033[0m]' + time + ' ' + str(text)
+
+    print(text)
+    return input(">>>")
 
 ################################################################################
 
