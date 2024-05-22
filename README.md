@@ -1,14 +1,10 @@
 ##
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&height=60&lines=Petit+Prince" style="display: inline ">
-  </a>
+  Hi, I'm Petit Prince
 </h1>
 
-Hey ! welcome on my Github :blush:
-
-Checkout my [website](https://petitprinc3.github.io) !
+Welcome on my Github :blush:
 
 ## Whoami ?
 
@@ -35,6 +31,14 @@ Checkout my [website](https://petitprinc3.github.io) !
 - [A few writeups for some CTFs](https://github.com/G4vr0ch3/CTFSolvesCollection)
 - [A repository for the rooms I developed for TryHackMe !](https://github.com/PetitPrinc3/TryHackMe-rooms)
 
+  
+## What am I working on ?
+
+| Project : | Starting date : | Status : | Involvements : |
+| :-: | :-: | :-: | :-: |
+| <img src="https://raw.githubusercontent.com/PetitPrinc3/Kraken-Bay/main/Kraken%20-%20Web/public/Assets/Images/kraken.png" height="20"> [Kraken Bay](https://github.com/Kraken-Bay) : Open Source media server / web streaming server. |  05/2024 | :running: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="20"> |
+
+
 ## What can I do ?
 
 ###### Programming :
@@ -58,14 +62,6 @@ Checkout my [website](https://petitprinc3.github.io) !
 | :star: | :star::star::star: |
 | Arduino | Raspberry Pi |
 
-## What am I working on ?
-
-| Project : | Starting date : | Status : | Involvements : |
-| :-: | :-: | :-: | :-: |
-| [PetitPrinc3.github.io V2](https://petitprinc3.github.io/v2): New personal website. Learning Javascript. |  03/12/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
-| [OWL](https://github.com/PetitPrinc3/OWL): Android Remote Access Tool (RAT) (Temporary name) | 30/10/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="20"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20"> |
-| [SNCF Sucks](https://github.com/PetitPrinc3/SNCF-Sucks) : Demonstrating how terrible the french railway system is | 04/08/2022 | :pause_button: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> |
-
 
 ## Support
 
@@ -80,4 +76,4 @@ Checkout my [website](https://petitprinc3.github.io) !
 
 
 > - <img href="mailto:gavrochebackups@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="12"> [Gmail](mailto:gavrochebackups@gmail.com)
-> - <img href="https://discordapp.com/users/Gavroche#2871" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="12"> [Discord](https://discordapp.com/users/Gavroche#2871)
+> - <img href="https://discordapp.com/users/Gavroche#2871" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="12"> [PetitPrince#1380](https://discordapp.com/users/PetitPrince#1380)
