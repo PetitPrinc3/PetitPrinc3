@@ -1,52 +1,35 @@
 ##
 
 <h1 align="center">
-  Hi, I'm Petit Prince
+  Hi :wave:, I'm Arthur
 </h1>
 
 Welcome on my Github :blush:
 
 ## Whoami ?
 
-- <img src="https://user-images.githubusercontent.com/64252014/180590776-89130674-440b-4ce2-b6c1-17a7504eb43a.png" height="20"> I'm french !
-- :boy: I'm 22 !
-- :seedling: I study cybersecurity among other things !
-- :triangular_flag_on_post: I do CTFs as a hoby !
-- :mortar_board: I'm an engineer !
+- <img src="https://user-images.githubusercontent.com/64252014/180590776-89130674-440b-4ce2-b6c1-17a7504eb43a.png" height="20"> I'm french
+- :boy: I'm 24
+- :heavy_dollar_sign: I program for myself and my work.
+- :seedling: I'm a cybersecurity enthousiast among other things
+- :triangular_flag_on_post: I do CTFs as a hoby
+- :mortar_board: I'm an engineer
 
-<div align="center">
-
-  <a href="https://tryhackme.com/p/G4vr0ch3">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/PetitPrinc3.png" alt="TryHackMe">
-  </a><br>
-
-</div>
-
-## What's on my Github ?
-
-- A few of my projects :
-  - [Asterix](https://github.com/PetitPrinc3/Asterix)
-  - [PipodNano](https://github.com/PetitPrinc3/PIpod-Nano)
-  - [PetitPrinc3.libs - Homemade Python libraries used in most of my projects !](https://github.com/PetitPrinc3/PetitPrinc3.github.io/libs)
-- [A few writeups for some CTFs](https://github.com/G4vr0ch3/CTFSolvesCollection)
-- [A repository for the rooms I developed for TryHackMe !](https://github.com/PetitPrinc3/TryHackMe-rooms)
-
-  
 ## What am I working on ?
 
 | Project : | Starting date : | Status : | Involvements : |
 | :-: | :-: | :-: | :-: |
-| <img src="https://raw.githubusercontent.com/PetitPrinc3/Kraken-Bay/main/Kraken%20-%20Web/public/Assets/Images/kraken.png" height="20"> [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay) : Open Source media server / web streaming server. |  05/2024 | :running: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="20"> |
+| <img src="" height="20"> [Kraken Bay](https://github.com/PetitPrinc3/Codebase) : The code Marketplace. |  05/2024 | :running: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="20"> |
 
 
 ## What can I do ?
 
-###### Programming :
+###### Programming techonologies :
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| :star::star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star: | :star::star: | :star: | :star: |
-| Python | Bash | C++ | JAVA | HTML | PHP | CSS | SQL | WOL | RDF |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :star::star::star: | :star::star::star: | :star::star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star: | :star::star: | :star: | :star: |
+| Python | Typescript | TailwindCSS | NextJS | Bash | C++ | JAVA | HTML | PHP | CSS | SQL | WOL | RDF |
 
 ###### Operating systems :
 
@@ -54,6 +37,12 @@ Welcome on my Github :blush:
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | :star::star: | :star::star: | :star::star::star: | :star::star::star: | :star::star::star: | :star::star::star: | :star::star::star: |
 | Windows | Android | Linux | Debian | Kali | Ubuntu | Raspberry Pi OS |
+
+###### Virtualisation :
+
+| <img src="https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt5a3e185aed7848a3/65fac63dd3267616e27e7051/vmware-logo-grey.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"> |
+| :-: | :-: |
+| VMWare | Docker |
 
 ###### Hardware :
 
