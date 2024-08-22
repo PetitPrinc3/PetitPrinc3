@@ -22,6 +22,11 @@ Welcome on my Github :blush:
 | <img src="" height="20"> [Codebase #!](https://github.com/PetitPrinc3/Codebase) : The code Marketplace. |  08/2024 | :running: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="20"> |
 
 
+##### Checkout my last big project :
+
+- :octopus: [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix inspired app for your local media hosting server.
+
+
 ## What can I do ?
 
 ###### Programming techonologies :
