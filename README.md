@@ -6,7 +6,7 @@
 
 Welcome on my Github :blush:
 ###### Checkout my last big project :
-> - :octopus: [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix inspired app for your local media hosting server.
+> :octopus: [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix inspired app for your local media hosting server.
 
 
 ## Whoami ?
