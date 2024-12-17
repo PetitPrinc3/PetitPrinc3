@@ -5,7 +5,8 @@
 </h1>
 
 Welcome on my Github :blush:
-> [!TIP] Checkout my last big project :
+> [!TIP] 
+> Checkout my last big project :
 > :octopus: [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix inspired app for your local media hosting server.
 
 
