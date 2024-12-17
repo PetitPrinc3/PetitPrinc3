@@ -11,7 +11,7 @@ Welcome on my Github :blush:
 
 ## Whoami ?
 
-- <img src="https://user-images.githubusercontent.com/64252014/180590776-89130674-440b-4ce2-b6c1-17a7504eb43a.png" height="20"> I'm french
+- :fr: I'm french
 - :boy: I'm 24
 - :heavy_dollar_sign: I program for myself and my work.
 - :seedling: I'm a cybersecurity enthousiast among other things
