@@ -4,68 +4,80 @@
   Hi :wave:, I'm Arthur
 </h1>
 
-Welcome on my Github :blush:
-###### Checkout my last big project :
-> :octopus: [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix inspired app for your local media hosting server.
+Welcome to my GitHub profile! :blush:
 
+###### Check out my latest big project:
+> :octopus: [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix-inspired app for your local media hosting server.
 
-## Whoami ?
+## About Me
 
-- :fr: I'm french
-- :boy: I'm 24
-- :heavy_dollar_sign: I program for myself and my work.
-- :seedling: I'm a cybersecurity enthousiast among other things
-- :triangular_flag_on_post: I do CTFs as a hoby
-- :mortar_board: I'm an engineer
+- :fr: I'm French
+- :boy: I'm 24 years old
+- :heavy_dollar_sign: I code for personal projects and my work.
+- :seedling: I'm a cybersecurity enthusiast, among other things.
+- :triangular_flag_on_post: I enjoy participating in CTFs as a hobby.
+- :mortar_board: I'm an engineer.
 
-## What am I working on ?
+## Current Projects
 
-| Project : | Starting date : | Status : | Involvements : |
-| :-: | :-: | :-: | :-: |
-| #! [Codebase](https://github.com/PetitPrinc3/Codebase) : The code Marketplace. |  08/2024 | :running: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="20"> |
+| Project | Start Date | Status | Technologies |
+|---|---|---|---|
+| #! [Codebase](https://github.com/PetitPrinc3/Codebase): The code Marketplace. | 08/2024 | :running: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="20"> |
 
+## Skills
 
-## What can I do ?
+###### Programming Technologies:
 
-###### Programming techonologies :
+<p align="center">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a>
+</p>
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1200px-Logo_Semantic_Web.svg.png" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rdf_logo.svg/1200px-Rdf_logo.svg.png" height="40"> |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| :star::star::star: | :star::star::star: | :star::star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star::star: | :star: | :star::star: | :star: | :star: |
-| Python | Typescript | TailwindCSS | NextJS | Bash | C++ | JAVA | HTML | PHP | CSS | SQL | WOL | RDF |
+###### Operating Systems:
 
-###### Operating systems :
+<p align="center">
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge" alt="Windows" /> </a>
+    <a href="https://www.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
+    <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" /> </a>
+    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" /> </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /> </a>
+    <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /> </a>
+</p>
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" > | <img src="https://www.kali.org/images/kali-logo.svg" height="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ubuntu-Logo_ohne_Schriftzug.svg/2048px-Ubuntu-Logo_ohne_Schriftzug.svg.png" height="40"> | <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| :star::star: | :star::star: | :star::star::star: | :star::star::star: | :star::star::star: | :star::star::star: | :star::star::star: |
-| Windows | Android | Linux | Debian | Kali | Ubuntu | Raspberry Pi OS |
+###### Virtualization:
 
-###### Virtualisation :
+<p align="center">
+    <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VMware-1663B8?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </a>
+</p>
 
-| <img src="https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt5a3e185aed7848a3/65fac63dd3267616e27e7051/vmware-logo-grey.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"> |
-| :-: | :-: |
-| VMWare | Docker |
+###### Hardware:
 
-###### Hardware :
-
-| <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" height="40"> | <img align="center" src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="40"> |
-| :-: | :-: |
-| :star: | :star::star::star: |
-| Arduino | Raspberry Pi |
-
+<p align="center">
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> </a>
+    <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /> </a>
+</p>
 
 ## Support
 
-> 👋🏼 Hey everyone ! I provide free software, feel free to use it and edit it as you wish. I will also provide a bit of support should you need it when contacted through the contact channels specified below. Feel free to help me out as you can !
+> 👋🏼 Hi everyone! I provide free software. Feel free to use and modify it as you wish. I'll also provide support if you need it through the contact channels below. Feel free to help me out in any way you can!
 
-- ⭐️ You can help by hitting Star on the repositories you like !
+- ⭐️ You can support me by starring the repositories you like!
 - ☕️ You can buy me a [coffee](https://www.paypal.com/paypalme/AReppelin)
 - ✨ Contributions of any kind are welcome!
 
+## Contact
 
-## Contact details :
-
-
-> - <img href="mailto:gavrochebackups@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="12"> [Gmail](mailto:gavrochebackups@gmail.com)
-> - <img href="https://discordapp.com/users/Gavroche#2871" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="12"> [PetitPrince#1380](https://discordapp.com/users/PetitPrince#1380)
+> - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="12"> [Gmail](mailto:gavrochebackups@gmail.com)
+> - <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="12"> [PetitPrince#1380](https://discordapp.com/users/PetitPrince#1380)
