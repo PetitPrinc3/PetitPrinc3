@@ -6,13 +6,14 @@
 
 Welcome to my GitHub profile! :blush:
 
-###### Check out my latest big project:
-> :octopus: [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix-inspired app for your local media hosting server.
+> [!TIP]
+> Check out my latest big project:
+> [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix-inspired app for your local media hosting server.
 
 ## About Me
 
 - :fr: I'm French
-- :boy: I'm 24 years old
+- :boy: I'm 25 years old
 - :heavy_dollar_sign: I code for personal projects and my work.
 - :seedling: I'm a cybersecurity enthusiast, among other things.
 - :triangular_flag_on_post: I enjoy participating in CTFs as a hobby.
@@ -22,7 +23,7 @@ Welcome to my GitHub profile! :blush:
 
 | Project | Start Date | Status | Technologies |
 |---|---|---|---|
-| #! [Codebase](https://github.com/PetitPrinc3/Codebase): The code Marketplace. | 08/2024 | :running: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="20"> |
+| [Alchemy](https://github.com/PetitPrinc3/Alchemy) : A free Deezer client. | 11/2024 | :running: | <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://www.android.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a> |
 
 ## Skills
 
