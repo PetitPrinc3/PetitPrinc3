@@ -8,7 +8,7 @@ Welcome to my GitHub profile! :blush:
 
 > [!TIP]
 > Check out my latest big project:
-> [Kraken Bay](https://github.com/PetitPrinc3/Kraken-Bay), A Netflix-inspired app for your local media hosting server.
+> [Alchemy](https://github.com/PetitPrinc3/Alchemy), A free Deezer client based on ReFreezer.
 
 ## About Me
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! :blush:
 
 | Project | Start Date | Status | Technologies |
 |---|---|---|---|
-| [Alchemy](https://github.com/PetitPrinc3/Alchemy) : A free Deezer client. | 11/2024 | :running: | <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a> <a href="https://www.android.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a> |
+| XXXX | 01/09/2025 | 🏃 | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a> |
 
 ## Skills
 
