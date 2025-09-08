@@ -23,7 +23,7 @@ Welcome to my GitHub profile! :blush:
 
 | Project | Start Date | Status | Technologies |
 |---|---|---|---|
-| XXXX | 01/09/2025 | 🏃 | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a> |
+| [Harvester](https://github.com/PetitPrinc3/Harvester) | 01/09/2025 | 🏃 | <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a> <a href="https://github.com/google-gemini/gemini-cli/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gemini-CLI-4A8AF4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="GeminiCLI" /></a>  |
 
 ## Skills
 
