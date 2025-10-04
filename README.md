@@ -68,6 +68,7 @@ Welcome to my GitHub profile! :blush:
 <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
     <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></a>
+    <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Proxmox-E57200?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" /></a>
 </p>
 
 ## Support
